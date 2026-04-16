@@ -12,7 +12,7 @@ A guild of open-source resource hubs — each one a specialist in its craft. Eve
 | 🗺️ [Cartographer](https://github.com/GuildMasterDev/Cartographer) | Interactive maps, geocoding, route planning | [Live](https://guildmasterdev.github.io/Cartographer) |
 | 🪚 [Carpenter](https://github.com/GuildMasterDev/Carpenter) | Construction carpentry, calculators, framing | [Live](https://guildmasterdev.github.io/Carpenter) |
 | 🩺 [Doctor](https://github.com/GuildMasterDev/Doctor) | Healthcare resources, wellness tools, first aid | [Live](https://guildmasterdev.github.io/Doctor) |
-| 📜 [Historian](https://github.com/GuildMasterDev/Historian) | History resources and organization | — |
+| 📜 [Historian](https://github.com/GuildMasterDev/Historian) | History resources and organization | [Live](https://guildmasterdev.github.io/Historian) |
 | 🌾 [Farmer](https://github.com/GuildMasterDev/Farmer) | Agriculture, farm management, AgTech | [Live](https://guildmasterdev.github.io/Farmer) |
 | 📚 [Librarian](https://github.com/GuildMasterDev/Librarian) | Personal library manager, book tracking | [Live](https://guildmasterdev.github.io/Librarian) |
 | ⚒️ [Smith](https://github.com/GuildMasterDev/Smith) | Metallurgy, bladesmithing, forge techniques | [Live](https://guildmasterdev.github.io/Smith) |
